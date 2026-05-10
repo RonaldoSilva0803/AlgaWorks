@@ -21,7 +21,7 @@ A aplicação foi totalmente conteinerizada, garantindo que o ambiente de execu�
 
 ```bash
 # Clone o repositório
-git clone https://github.com
+git clone [https://github.com](https://github.com/RonaldoSilva0803/AlgaWorks/tree/main)
 
 # Entre na pasta
 cd seu-projeto
